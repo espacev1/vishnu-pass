@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a1a470b1-2a4a-45c5-8a44-8b8ca101d24f",
+    "user_name": "ADABALA UTTEJ",
+    "student_id": "24PA1A4502",
+    "access_point_id": null,
+    "movement_type": "OUT",
+    "status": "Pending",
+    "created_at": "2026-03-26T08:08:20.584635+00:00"
+  },
+  {
+    "id": "9a6e7db3-4695-44d3-be7c-07c1ae58f2f1",
+    "user_name": "ADABALA UTTEJ",
+    "student_id": "24PA1A4502",
+    "access_point_id": null,
+    "movement_type": "OUT",
+    "status": "Pending",
+    "created_at": "2026-03-26T08:08:10.081745+00:00"
+  },
+  {
+    "id": "5f2c26ec-97e9-4794-97a5-c8de51603eda",
+    "user_name": "ADABALA UTTEJ",
+    "student_id": "24PA1A4502",
+    "access_point_id": null,
+    "movement_type": "OUT",
+    "status": "Pending",
+    "created_at": "2026-03-26T08:07:58.711997+00:00"
+  },
+  {
+    "id": "237f0f1d-b8e8-461f-9919-8b02011e096f",
+    "user_name": "ADABALA UTTEJ",
+    "student_id": "24PA1A4502",
+    "access_point_id": null,
+    "movement_type": "IN",
+    "status": "Pending",
+    "created_at": "2026-03-26T08:07:04.620764+00:00"
+  },
+  {
+    "id": "e979bdef-18c2-4888-83a8-d02be11ee6c4",
+    "user_name": "ADABALA UTTEJ",
+    "student_id": "24PA1A4502",
+    "access_point_id": null,
+    "movement_type": "IN",
+    "status": "Pending",
+    "created_at": "2026-03-26T08:06:55.620258+00:00"
+  }
+]

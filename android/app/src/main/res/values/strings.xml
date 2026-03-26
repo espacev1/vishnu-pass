@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Vishnu Pass</string>
+    <string name="title_activity_main">Vishnu Pass</string>
+    <string name="package_name">com.vishnupass.com</string>
+    <string name="custom_url_scheme">com.vishnupass.com</string>
+</resources>
